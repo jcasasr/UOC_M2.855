@@ -15,9 +15,9 @@ Recomendamos los siguientes enlaces para poder instalar los componentes de softw
 
 ### Materiales didácticos de la asignatura
 
-- Versión borrador de los [materiales](./Materiales/)
+- Versión preliminar de los [materiales](./Materiales/)
 
-### Ejemeplos de código 
+### Ejemplos de código 
 
 - Módulo 1 - Introducción al aprendizaje automático
 - [Módulo 2 - Preparación de los datos](./M2/)
