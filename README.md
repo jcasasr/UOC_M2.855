@@ -13,10 +13,6 @@ Recomendamos los siguientes enlaces para poder instalar los componentes de softw
 
 ## Contenido del repositorio
 
-### Materiales didácticos de la asignatura
-
-- Versión preliminar de los [materiales](./Materiales/)
-
 ### Ejemplos de código 
 
 - Módulo 1 - Introducción al aprendizaje automático
